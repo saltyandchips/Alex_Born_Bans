@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex 與 Born 行為禁止",
+  "alex_born_bans.config.tab.alexsmobs": "Alex 的生物",
+  "alex_born_bans.config.tab.iceandfire": "冰火傳說",
+  "alex_born_bans.config.tab.borninchaos": "生於混沌",
+  "alex_born_bans.config.tab.vanilla": "原版",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "停用熊的跳殺彩蛋",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "海鷗不再偷食物",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "停用蚊子趴臉吸血",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "緋紅蚊子對玩家中立",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "限制蒼蠅生成",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "跨座獸對玩家中立",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "骨蟒對玩家中立",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "重構蟑螂生成",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "蟑螂吸引敵對生物",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "龍全部中立",
+  "alex_born_bans.config.iceandfire.pixie_steal": "停用小精靈偷竊",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "海蟒索敵半徑減半",
+  "alex_born_bans.config.iceandfire.siren_sight": "塞壬需看見玩家才唱歌",
+  "alex_born_bans.config.iceandfire.siren_timeout": "塞壬魅惑兩分鐘逾時",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "停用被感染的鑽石礦",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "禁止腐屍蒼蠅生成",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "禁止屍蛆生成",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "禁止膿瘡殭屍生成",
+  "alex_born_bans.config.borninchaos.krampus_steal": "停用坎普斯擊落物品",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "睡覺秒殺夜魅",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "苦力怕爆炸不破壞方塊"
+}

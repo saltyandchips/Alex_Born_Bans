@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex & Born 금지 설정",
+  "alex_born_bans.config.tab.alexsmobs": "Alex의 몹",
+  "alex_born_bans.config.tab.iceandfire": "Ice and Fire",
+  "alex_born_bans.config.tab.borninchaos": "Born in Chaos",
+  "alex_born_bans.config.tab.vanilla": "바닐라",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "곰 점프스케어",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "갈매기 음식 절도",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "모기 얼굴 흡혈",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "크림슨 모기 중립",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "파리 생성 제한",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "스트래들러 중립",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "본 서펜트 중립",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "바퀴벌레 생성 변경",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "바퀴벌레 어그로",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "드래곤 중립",
+  "alex_born_bans.config.iceandfire.pixie_steal": "픽시 절도",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "바다뱀 탐색 범위",
+  "alex_born_bans.config.iceandfire.siren_sight": "세이렌 시야 필요",
+  "alex_born_bans.config.iceandfire.siren_timeout": "세이렌 2분 제한",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "감염된 다이아 광석",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "시체 파리 생성 금지",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "구더기 생성 금지",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "스워머 생성 금지",
+  "alex_born_bans.config.borninchaos.krampus_steal": "크람푸스 아이템 탈락",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "침대에서 팬텀 즉사",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "크리퍼: 블록 파괴 없음"
+}

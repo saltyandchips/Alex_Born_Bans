@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex & Born Bans",
+  "alex_born_bans.config.tab.alexsmobs": "Alex's Mobs",
+  "alex_born_bans.config.tab.iceandfire": "Ice and Fire",
+  "alex_born_bans.config.tab.borninchaos": "Born in Chaos",
+  "alex_born_bans.config.tab.vanilla": "Vanilla",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "Disable bear jumpscare",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "Disable seagull food theft",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "Disable mosquito face-sucking",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "Crimson mosquito neutral",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "Restrict fly spawning",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "Straddler neutral",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "Bone serpent neutral",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "Rework cockroach spawning",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "Cockroach attracts hostile mobs",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "Dragons neutral",
+  "alex_born_bans.config.iceandfire.pixie_steal": "Disable pixie stealing",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "Halve sea serpent range",
+  "alex_born_bans.config.iceandfire.siren_sight": "Siren charm requires sight",
+  "alex_born_bans.config.iceandfire.siren_timeout": "Siren 2-minute timeout",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "Disable infected diamond ore",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "Disable corpse fly spawn",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "Disable maggot spawn",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "Disable swarmer spawn",
+  "alex_born_bans.config.borninchaos.krampus_steal": "Disable krampus item steal",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "Sleep kills phantoms",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "Creeper explosions do not break blocks"
+}

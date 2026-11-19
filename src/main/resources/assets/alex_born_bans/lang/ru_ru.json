@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex & Born Bans",
+  "alex_born_bans.config.tab.alexsmobs": "Мобы Алекса",
+  "alex_born_bans.config.tab.iceandfire": "Ice and Fire",
+  "alex_born_bans.config.tab.borninchaos": "Born in Chaos",
+  "alex_born_bans.config.tab.vanilla": "Ванилла",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "Скример медведя",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "Кража еды чайками",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "Москит не кусает лицо",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "Москит нейтрален",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "Спавн мух",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "Страддлер нейтрален",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "Костяной змей нейтрален",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "Спавн тараканов",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "Тараканы привлекают мобов",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "Драконы нейтральны",
+  "alex_born_bans.config.iceandfire.pixie_steal": "Кража пикси",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "Радиус морского змея",
+  "alex_born_bans.config.iceandfire.siren_sight": "Сирена: нужна видимость",
+  "alex_born_bans.config.iceandfire.siren_timeout": "Сирена: лимит 2 мин",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "Заражённая руда",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "Спавн трупных мух",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "Спавн личинок",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "Спавн роевиков",
+  "alex_born_bans.config.borninchaos.krampus_steal": "Крампус: выбивание",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "Сон убивает фантомов",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "Криперы не ломают блоки"
+}
