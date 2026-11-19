@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex & Born 挙動禁止",
+  "alex_born_bans.config.tab.alexsmobs": "Alex's Mobs",
+  "alex_born_bans.config.tab.iceandfire": "Ice and Fire",
+  "alex_born_bans.config.tab.borninchaos": "Born in Chaos",
+  "alex_born_bans.config.tab.vanilla": "バニラ",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "クマのジャンプスケア",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "カモメの食べ物泥棒",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "蚊の顔面吸血",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "クリムゾンモスキート中立",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "ハエのスポーン制限",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "ストラドラー中立",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "ボーンサーペント中立",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "ゴキブリのスポーン変更",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "ゴキブリが敵対Mobを誘引",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "ドラゴン全種中立",
+  "alex_born_bans.config.iceandfire.pixie_steal": "ピクシーの窃盗",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "シーサーペント索敵半減",
+  "alex_born_bans.config.iceandfire.siren_sight": "セイレーン要視認",
+  "alex_born_bans.config.iceandfire.siren_timeout": "セイレーン2分制限",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "感染ダイヤ鉱石",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "コープスフライ生成禁止",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "マゴット生成禁止",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "スワーマー生成禁止",
+  "alex_born_bans.config.borninchaos.krampus_steal": "クランプスのアイテム落とし",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "就寝でファントム即死",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "クリーパー爆発で破壊なし"
+}

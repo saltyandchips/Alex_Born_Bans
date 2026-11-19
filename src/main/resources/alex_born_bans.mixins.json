@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.hoyi.alexbornbans.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "alex_born_bans.refmap.json",
+  "mixins": [
+    "ConfiguredFeatureMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

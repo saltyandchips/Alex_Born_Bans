@@ -1,0 +1,32 @@
+{
+  "alex_born_bans.config.title": "Alex & Born Bans",
+  "alex_born_bans.config.tab.alexsmobs": "Alex' Mobs",
+  "alex_born_bans.config.tab.iceandfire": "Ice and Fire",
+  "alex_born_bans.config.tab.borninchaos": "Born in Chaos",
+  "alex_born_bans.config.tab.vanilla": "Vanilla",
+
+  "alex_born_bans.config.alexsmobs.bear_jumpscare": "Bären-Jumpscare",
+  "alex_born_bans.config.alexsmobs.seagull_steal": "Möwen-Diebstahl",
+  "alex_born_bans.config.alexsmobs.mosquito_face": "Mücken-Blutsaugen",
+  "alex_born_bans.config.alexsmobs.mosquito_neutral": "Karminmücke neutral",
+  "alex_born_bans.config.alexsmobs.fly_spawn": "Fliegen-Spawn",
+  "alex_born_bans.config.alexsmobs.straddler_neutral": "Straddler neutral",
+  "alex_born_bans.config.alexsmobs.bone_serpent_neutral": "Knochenschlange neutral",
+  "alex_born_bans.config.alexsmobs.cockroach_spawn": "Kakerlaken-Spawn",
+  "alex_born_bans.config.alexsmobs.cockroach_aggro": "Kakerlaken locken Mobs",
+
+  "alex_born_bans.config.iceandfire.dragons_neutral": "Drachen neutral",
+  "alex_born_bans.config.iceandfire.pixie_steal": "Pixie-Diebstahl",
+  "alex_born_bans.config.iceandfire.sea_serpent_range": "Seeschlangen-Radius",
+  "alex_born_bans.config.iceandfire.siren_sight": "Sirene: Sichtkontakt",
+  "alex_born_bans.config.iceandfire.siren_timeout": "Sirene: 2 Minuten",
+
+  "alex_born_bans.config.borninchaos.infected_ore": "Infiziertes Diamanterz",
+  "alex_born_bans.config.borninchaos.corpse_fly_spawn": "Leichenfliegen-Spawn",
+  "alex_born_bans.config.borninchaos.maggot_spawn": "Maden-Spawn",
+  "alex_born_bans.config.borninchaos.swarmer_spawn": "Swarmer-Spawn",
+  "alex_born_bans.config.borninchaos.krampus_steal": "Krampus-Itemdiebstahl",
+
+  "alex_born_bans.config.vanilla.sleep_kill_phantoms": "Schlafen tötet Phantome",
+  "alex_born_bans.config.vanilla.creeper_explosion_no_blocks": "Creeper: keine Blockzerstörung"
+}
